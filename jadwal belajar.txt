@@ -1,5 +1,6 @@
 jadwal 2021
 belajar laravel
 belajar git dan github
-belajar python
+belajar php 
 belajar go
+belajar css
